@@ -1,9 +1,9 @@
 # Go Case Personalize (Test)
 
 
-[![gocasedone1](https://ik.imagekit.io/builderstest/newCase__28__5N5MAvE6T.png)
-[![gocasedone2](https://ik.imagekit.io/builderstest/newCase__3__lfF9HnTM1KS.png)
-[![gocasedone3](https://ik.imagekit.io/builderstest/newCase__2__94m9noFlJ.png)
+[!gocaseScreenshot1](https://ik.imagekit.io/builderstest/newCase__28__5N5MAvE6T.png)
+[!gocaseScreenshot2](https://ik.imagekit.io/builderstest/newCase__3__lfF9HnTM1KS.png)
+[!gocaseScreenshot3](https://ik.imagekit.io/builderstest/newCase__2__94m9noFlJ.png)
 
 ## Description
 
